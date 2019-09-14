@@ -1,0 +1,4 @@
+configs\BaseClass.class
+tests\SignInTests.class
+configs\CapabilitiesClass.class
+fragments\OnBoardingPage.class
